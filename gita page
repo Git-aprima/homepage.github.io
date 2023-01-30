@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Belajar Bersama Gita.</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>HT GITA PRIMA AGUSTA.</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#courses">Courses</a></li>
+                    <li><a href="#quiz">Quiz</a></li>
+                    <li><a href="#games">Games</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="" class="tbl-biru">Sign Up</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <!-- untuk home -->
+        <section id="home">
+          <div class="kolom"<img src="https://img.freepik.com/free-vector/education-learning-concept-love-reading-people-reading-students-studying-preparing-examination-library-book-lovers-readers-modern-literature-flat-cartoon-vector-illustration_1150-60938.jpg?w=1060&t=st=1675036146~exp=1675036746~hmac=7c6a7b28c8bac8c4077c7b6aee0e735e0f48994d0d35c22cb0777537331acba3"/></section div>
+            <div class="kolom">
+                <p class="deskripsi">Enjoy your learning process</p>
+                <h2>Life, Love , Learn</h2>
+                <p>Enjoying every single learning process is more important than result.</p>
+                <p><a href="" class="tbl-biru">Learn more</a></p>
+            </div>
+        </section>
+
+        <!-- untuk courses -->
+        <section id="courses">
+            <div class="kolom">
+                <p class="deskripsi">What you needs</p>
+                <h2>Courses</h2>
+                <p>Learning is a relatively permanent change in potential behavior as a result of reinforced experience or practice</p>
+                <p>Learning is the result of the interaction between stimulus and response. Someone is considered to have learned something if he can show changes in his behavior</p>
+                <p><a href="" class="tbl-biru">Learn more</a></p>
+            </div>
+            <img src="https://img.freepik.com/free-vector/online-learning-isometric-concept_1284-17947.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161"/>
+        </section>
+
+        <!-- untuk tutors -->
+        <section id="Quiz">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Your Quiz</p>
+                    <h2>Quiz</h2>
+                    <p>For test yor level, you can try this quiz</p>
+                </div>
+
+                <div class="Quiz-list">
+                    <div class="kartu-quiz">
+                        <img src="https://cdn-icons-png.flaticon.com/512/443/443155.png?w=740&t=st=1675039043~exp=1675039643~hmac=98fe121e9cf99c1d5245b6f9a37a0fd03afa8f824143d04acff06766132058ee"/>
+                        <p>Quiz Pertama</p>
+                    </div>
+                    <div class="kartu-quiz">
+                        <img src="https://img.freepik.com/free-vector/two-kids-with-number-two-cartoon_1308-106440.jpg?w=740&t=st=1675039177~exp=1675039777~hmac=c3a5a650ea56e2ef0c9eee6320a73e3c94d2b263af8d5105369bf31adb8579f9"/>
+                        <p>Quiz Kedua</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- untuk partners -->
+        <section id="Games">
+            <div class="tengah">
+                <div class="kolom">
+                    <p class="deskripsi">Our Games</p>
+                    <h2>Games</h2>
+                    <p>You still can enjoy the learning by this fun games.</p>
+                </div>
+
+                <div class="games-list">
+                    <div class="kartu-games">
+                        <img src="https://img.freepik.com/free-vector/logo-template-gaming_23-2148593854.jpg?w=740&t=st=1675041415~exp=1675042015~hmac=2062f78caa626d656c2a240a016ea7a41c3e0b086fe39c5b1ab9a8c8ede06688"/>
+                    </div>
+                    <div class="kartu-games">
+                        <img src="https://img.freepik.com/free-vector/gaming-logo-template_23-2148558719.jpg?w=740&t=st=1675041815~exp=1675042415~hmac=b2e66d8e6ffe480fd59e37425e18c40324c10ff942c6811ab1268b93a4aa8c18"/>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <div id="contact">
+        <div class="wrapper">
+            <div class="footer">
+                <div class="footer-section">
+                    <h3>HT GITA PRIMA AGUSTA.</h3>
+                    <p>A teacher who teach student with heart</p>
+                </div>
+                <div class="footer-section">
+                    <h3>About</h3>
+                    <p>This website about learning together!</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Contact</h3>
+                    <p>Jl Letkol Atmo Rt 6 No 27 , Lubuklinggau Barat 1, Sumatera Selatan</p>
+                    <p>Indonesia</p>
+                </div>
+                <div class="footer-section">
+                    <h3>Social</h3>
+                    <p><b>Instagram: </b>@htgitaprima</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="copyright">
+        <div class="wrapper">
+            &copy; 2022. <b>HT Gita Prima Agusta.</b> All Rights Reserved.
+        </div>
+    </div>
+
+</body>
+</html>
